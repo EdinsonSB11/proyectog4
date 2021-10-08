@@ -102,10 +102,10 @@ WSGI_APPLICATION = 'ViajesPorElMundo.wsgi.application'
 DATABASES = {
     'default': {
     'ENGINE': 'django.db.backends.postgresql_psycopg2',
-    'NAME': 'd5mho6t79h0f4d',
-    'USER': 'jfgswjoggerjqr',
-    'PASSWORD': 'f97dfae00c742b312810b35668bf65ed91cbb2fad53e1b1a15a47430b489d900',
-    'HOST': 'ec2-54-145-188-92.compute-1.amazonaws.com',
+    'NAME': 'viajesxd',
+    'USER': 'postgres',
+    'PASSWORD': '11032001',
+    'HOST': 'localhost',
     'PORT': '5432',
     }
 }
